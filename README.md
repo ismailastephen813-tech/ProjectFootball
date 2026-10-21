@@ -26,15 +26,16 @@ The database allows users to examine player performance through goals, assists, 
 **Player Management:** Store player information, including names, nationality, position, salary, and market value.
 **Match Management:** Maintain records of football matches.
 **Player Statistics:** Track goals, assists, minutes played, yellow cards, and red cards.
-Top Scorers: Identify players with the highest goal totals.
-Top Assist Providers: Identify players with the most assists.
-Player Match History: Review individual performances across matches.
-Player Rankings: Compare players based on their goal contributions.
-Efficiency Rankings: Evaluate goals and assists relative to playing time.
-Position Analysis: Compare player contributions across different positions
-Database Structure
+**Top Scorers:** Identify players with the highest goal totals.
+**Top Assist Providers:** Identify players with the most assists.
+**Player Match History:** Review individual performances across matches.
+**Player Rankings:** Compare players based on their goal contributions.
+**Efficiency Rankings:** Evaluate goals and assists relative to playing time.
+**Position Analysis:** Compare player contributions across different positions
 
-**The project includes three main tables:**
+**Database Structure**
+
+The project includes three main tables:
 
 **Table	Description**
 Players	Stores player information.
